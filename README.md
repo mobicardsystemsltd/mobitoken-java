@@ -1,4 +1,6 @@
-# MobiToken by MobiCard - Java
+# Tokenization API
+## MobiToken by MobiCard
+### Java
 
 Use this multi-platform API to reduce your PCI compliance footprint by tokenizing payment card information. Store only tokens instead of actual card data, and detokenize when needed for payment processing.
 
